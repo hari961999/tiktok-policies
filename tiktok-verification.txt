@@ -1,3 +1,6 @@
+tiktok-developers-site-verification=NF1INdi2xEXQGMPJoU5sTFLTmui1182c
+
+
 # In deinem lokalen Repository-Ordner
 echo "1234567890abcdef" > tiktok-verification.txt  # Code ersetzen!
 git add tiktok-verification.txt
